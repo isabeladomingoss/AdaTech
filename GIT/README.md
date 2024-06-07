@@ -9,3 +9,5 @@ comando "Q" => para sair do git log
 git restore --staged +arquivo => retirar da área de staged
 
 git restore +arquivo => ctrl z do arquivo
+
+git push => mandar pra nuvem
