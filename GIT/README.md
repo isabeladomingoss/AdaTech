@@ -19,5 +19,10 @@ git pull => baixar o que esta no repositório remoto
 git fetch => baixar somente o que não tem no repositório local 
 Usar o git diff => para ver alterações antes do git pull (git diff origin/master) Usar Q para sair
 
+git branch nomedabranch => criar branch
+git log --oneline --decorate
+Lista comandos e se esta em master
+
+git checkout nomedabranch => 
 
 
